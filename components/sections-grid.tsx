@@ -11,7 +11,7 @@ const sections = [
     icon: Ban,
     features: ["Lista de baneados", "Historial de sanciones", "Sistema anti-cheat"],
     buttonText: "VER BANEOS",
-    buttonLink: "https://bans.fresa.top",
+    buttonLink: "https://sanciones.fresa.top",
     accentColor: "red",
   },
   {
@@ -22,7 +22,7 @@ const sections = [
     icon: Vote,
     features: ["Recompensas diarias", "Rangos por votos", "Keys exclusivas"],
     buttonText: "VOTAR AHORA",
-    buttonLink: "https://vote.fresa.top",
+    buttonLink: "https://votar.fresa.top",
     accentColor: "green",
   },
   {
@@ -44,7 +44,7 @@ const sections = [
     icon: Music2,
     features: ["Clips diarios", "Momentos epicos", "Concursos"],
     buttonText: "SEGUIR EN TIKTOK",
-    buttonLink: "https://tiktok.com/@fresanetwork",
+    buttonLink: "https://tiktok.com/@fresa.network",
     accentColor: "pink",
   },
   {
