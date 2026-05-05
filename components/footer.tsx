@@ -66,7 +66,7 @@ export function Footer() {
             />
             <div>
               <p className="text-white/80 font-semibold">Fresa Network</p>
-              <p className="text-white/40 text-sm">2024 Todos los derechos reservados</p>
+              <p className="text-white/40 text-sm">2026 Todos los derechos reservados</p>
             </div>
           </div>
 
@@ -93,7 +93,7 @@ export function Footer() {
           <span className="w-1 h-1 bg-white/20 rounded-full" />
           <span>Bedrock: fresa.top:19132</span>
           <span className="w-1 h-1 bg-white/20 rounded-full" />
-          <span>Minecraft 1.8 - 1.21</span>
+          <span>Minecraft 1.20x - 1.26x</span>
         </div>
       </div>
     </footer>

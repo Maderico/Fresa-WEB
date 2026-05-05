@@ -41,7 +41,7 @@ export function HeroSection() {
             <span className="text-red-500">FRESA</span>{" "}
             <span className="text-white">NETWORK</span>
           </h1>
-          <p className="text-white/60 text-sm md:text-base">El mejor servidor de Minecraft en Espanol</p>
+          <p className="text-white/60 text-sm md:text-base">¡Minería, combate y diversión te esperan en Fresa Network!</p>
         </div>
 
         {/* Server Status */}

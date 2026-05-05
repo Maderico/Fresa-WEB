@@ -43,7 +43,7 @@ const sections = [
     description: "Mira nuestros mejores momentos, clips epicos y contenido exclusivo del servidor.",
     icon: Music2,
     features: ["Clips diarios", "Momentos epicos", "Concursos"],
-    buttonText: "SEGUIR EN TIKTOK",
+    buttonText: "SEGUIR TIKTOK",
     buttonLink: "https://tiktok.com/@fresa.network",
     accentColor: "pink",
   },
