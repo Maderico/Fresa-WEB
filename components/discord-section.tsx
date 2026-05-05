@@ -99,7 +99,7 @@ export function DiscordSection() {
                 </div>
 
                 <a
-                  href={discordData?.instant_invite || "https://discord.gg/fresanetwork"}
+                  href={discordData?.instant_invite || "https://discord.gg/fresa"}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2 bg-[#5865F2] hover:bg-[#4752C4] text-white font-bold py-3 px-6 rounded-xl transition-all hover:scale-[1.02]"
